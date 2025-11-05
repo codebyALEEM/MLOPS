@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/VICTUS/Desktop/mastering%20git/Practise%20git/MLOPS/mlruns/236547964178833836/models/m-376073d7948b4b9085ea7a88c145c906/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-376073d7948b4b9085ea7a88c145c906
+model_size_bytes: 39012
+model_uuid: m-376073d7948b4b9085ea7a88c145c906
+prompts: null
+run_id: a0a5584621454db08b13f348661209d5
+utc_time_created: '2025-11-05 12:41:12.080401'

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/VICTUS/Desktop/mastering%20git/Practise%20git/MLOPS/mlruns/234559682912207288/f6fedd0ff4c44eb1911dbadfcae51a10/artifacts
+end_time: 1762346407975
+entry_point_name: ''
+experiment_id: '234559682912207288'
+lifecycle_stage: active
+run_id: f6fedd0ff4c44eb1911dbadfcae51a10
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762346396850
+status: 3
+tags: []
+user_id: VICTUS

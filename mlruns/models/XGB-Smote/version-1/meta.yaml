@@ -1,0 +1,15 @@
+creation_timestamp: 1762346670205
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1762346670205
+model_id: m-07178967d01146188dc4629f060d09e7
+name: XGB-Smote
+run_id: b5cb0a4cc70d48a4b7391005c318ac8c
+run_link: ''
+source: models:/m-07178967d01146188dc4629f060d09e7
+status: READY
+status_message: null
+storage_location: file:///c:/Users/VICTUS/Desktop/mastering%20git/Practise%20git/MLOPS/mlruns/236547964178833836/models/m-07178967d01146188dc4629f060d09e7/artifacts
+user_id: null
+version: 1

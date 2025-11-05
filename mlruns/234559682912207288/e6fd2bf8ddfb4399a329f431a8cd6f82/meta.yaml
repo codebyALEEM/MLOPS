@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/VICTUS/Desktop/mastering%20git/Practise%20git/MLOPS/mlruns/234559682912207288/e6fd2bf8ddfb4399a329f431a8cd6f82/artifacts
+end_time: 1762346420129
+entry_point_name: ''
+experiment_id: '234559682912207288'
+lifecycle_stage: active
+run_id: e6fd2bf8ddfb4399a329f431a8cd6f82
+run_name: XGBClassifier With SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762346408013
+status: 3
+tags: []
+user_id: VICTUS

@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/VICTUS/Desktop/mastering%20git/Practise%20git/MLOPS/mlruns/234559682912207288/models/m-b349b3fb652c4d36bf07947c372bc016/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.7
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.5
+mlflow_version: 3.5.1
+model_id: m-b349b3fb652c4d36bf07947c372bc016
+model_size_bytes: 102280
+model_uuid: m-b349b3fb652c4d36bf07947c372bc016
+prompts: null
+run_id: f6fedd0ff4c44eb1911dbadfcae51a10
+utc_time_created: '2025-11-05 12:39:57.216608'

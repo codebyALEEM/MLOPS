@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/VICTUS/Desktop/mastering%20git/Practise%20git/MLOPS/mlruns/234559682912207288/models/m-7200d38d35044b819fbbae82e620dfbe/artifacts
+creation_timestamp: 1762346375891
+experiment_id: '234559682912207288'
+last_updated_timestamp: 1762346385455
+model_id: m-7200d38d35044b819fbbae82e620dfbe
+model_type: ''
+name: model
+source_run_id: c7453c6c13c8430ca6cbc8693b57ea85
+status: 2
+status_message: null

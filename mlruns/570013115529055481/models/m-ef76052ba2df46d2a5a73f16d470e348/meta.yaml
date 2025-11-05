@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/VICTUS/Desktop/mastering%20git/Practise%20git/MLOPS/mlruns/570013115529055481/models/m-ef76052ba2df46d2a5a73f16d470e348/artifacts
+creation_timestamp: 1762346278771
+experiment_id: '570013115529055481'
+last_updated_timestamp: 1762346299836
+model_id: m-ef76052ba2df46d2a5a73f16d470e348
+model_type: ''
+name: Logistic Regression
+source_run_id: ''
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/VICTUS/Desktop/mastering%20git/Practise%20git/MLOPS/mlruns/236547964178833836/a0a5584621454db08b13f348661209d5/artifacts
+end_time: 1762346482061
+entry_point_name: ''
+experiment_id: '236547964178833836'
+lifecycle_stage: active
+run_id: a0a5584621454db08b13f348661209d5
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762346471728
+status: 3
+tags: []
+user_id: VICTUS
